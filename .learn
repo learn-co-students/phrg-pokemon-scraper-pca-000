@@ -6,3 +6,5 @@ languages:
   - ruby
   - sqlite3
 resources: 6
+
+parent_template: git@github.com:learn-co-curriculum/pokemon-scraper.git

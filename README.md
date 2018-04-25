@@ -45,4 +45,4 @@ Once the `hp` column is set up there should be an instance method called `alter_
 
 Follow the pending specs for more information.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pokemon-scraper'>Pokemon Scraper</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Pokemon Scraper</p>
